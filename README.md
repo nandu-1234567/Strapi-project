@@ -1,4 +1,4 @@
-<h1 align ="center">What is Strapi?</h1>
+<h1 align ="center"><span style="color:red;">What is Strapi?</h1>
  
    Strapi is a backend tool that lets you :
        
